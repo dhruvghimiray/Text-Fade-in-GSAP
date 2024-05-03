@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #111;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h4 {
+  font-size: xx-large;
+  color: white;
+  display: inline-block;
+}
+
+h4 .a {
+  font-size: xx-large;
+  display: inline-block;
+  color: white;
+}
+
+h4 .b {
+    font-size: xx-large;
+    display: inline-block;
+    color: white;
+  }
